@@ -1,5 +1,6 @@
 
   # Olá, eu sou o Fabrício Coelho. Seja bem-vindo. 👋
+  **Engenheiro de Software em formação | Desenvolvedor Android Nativo | Entusiasta de RPA & IA**
 
 Estudante de Engenharia de Software apaixonado por transformar ideias em soluções móveis. Atualmente, foco meus estudos e projetos no ecossistema **Android Nativo**, explorando o poder do Kotlin para criar interfaces intuitivas e performance sólida.
 
@@ -9,13 +10,26 @@ Estudante de Engenharia de Software apaixonado por transformar ideias em soluç�
 - 🎓 Cursando Engenharia de Software no IFAM.
 - 📱 Especializando-se em Desenvolvimento Android (Kotlin).
 - 📍 Residente em Manaus, AM.
+---
+
+### 🏆 Conquistas e Atuação Acadêmica
+- **Destaque Acadêmico:** Premiado pelo melhor rendimento entre os alunos de Engenharia de Software (2024).
+- **Monitoria:** Atuei como monitor de **Sistemas Embarcados** no projeto Aranouá e no projeto "Partiu IF".
+- **Pesquisa & Inovação:** Focado no desenvolvimento de soluções que unem Android Nativo. 
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
+#### **Mobile (Core)**
+- **Nativo:** Kotlin, Android SDK, Jetpack Compose.
+- **Híbrido:** Flutter (Dart), React Native (JavaScript).
+
+#### **Inteligência Artificial & Automação**
+- **Machine Learning:** Modelos supervisionados e Deep Learning.
+- **Automação:** Python (scripts de scraping e sumarização), BotCity, n8n, Selenium
 - **Linguagens:** Kotlin, Java, Python., C, C++, Dart 
-- **Mobile:** Android SDK, Jetpack Compose, Flutter.
-- **Ferramentas:** Git, GitHub, Selenium (QA/Testing).
+
+- **Ferramentas:** Git, GitHub, Discord, Teams, Trello 
 - **Sistemas:** Pop!_OS Linux.
 
 ---
