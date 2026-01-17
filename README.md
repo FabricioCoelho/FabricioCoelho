@@ -9,7 +9,7 @@ Estudante de Engenharia de Software apaixonado por transformar ideias em soluç�
 ### 🚀 Sobre Mim
 - 🎓 Cursando Engenharia de Software no IFAM.
 - 📱 Especializando-se em Desenvolvimento Android (Kotlin).
-- 📍 Residente em Manaus, AM.
+- 📍 Residente em Manaus-AM.
 ---
 
 ### 🏆 Conquistas e Atuação Acadêmica
