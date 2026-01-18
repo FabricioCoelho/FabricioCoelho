@@ -42,8 +42,8 @@ Aplicação desenvolvida em Kotlin para simplificar a análise de solo. Um exemp
 #### [App Lista de Tarefas](https://github.com/FabricioCoelho/AppListaDeTarefas)
 Projeto prático focado em persistência de dados e arquitetura Android, ideal para organizar a rotina.
 
-#### [Calculadora de IMC](https://github.com/FabricioCoelho/App_calculadora_IMC)
-Ferramenta utilitária desenvolvida para auxiliar no monitoramento de saúde.
+#### [App de receitas]([https://github.com/FabricioCoelho/App_calculadora_IMC](https://github.com/FabricioCoelho/flutter_app4_receitas))
+Projeto prático em flutter de uma aplicação completa de receitas.
 
 ---
 
