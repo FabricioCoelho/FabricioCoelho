@@ -36,16 +36,16 @@ Estudante de Engenharia de Software apaixonado por transformar ideias em soluç�
 
 ### 📌 Projetos em Destaque
 
-#### <img width="212" height="212" alt="image" src="https://github.com/user-attachments/assets/3f341360-9031-47d1-9130-a8009cfdab16" /> [App SoloFacil](https://github.com/FabricioCoelho/App_SoloFacil)
+#### <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/5b30ba52-31e9-466b-92e8-cc6b17937e40" /> [App SoloFacil](https://github.com/FabricioCoelho/App_SoloFacil)
 -Projeto prático em Kotlin para simplificar a análise de solo(NPK e umidade). Um exemplo de como a tecnologia pode servir à agroecologia.
 
-#### [App Lista de Tarefas](https://github.com/FabricioCoelho/AppListaDeTarefas)
+#### <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d9e78652-0294-4f1c-a7f0-5ecd48d02012" /> [App Lista de Tarefas](https://github.com/FabricioCoelho/AppListaDeTarefas)
 -Projeto prático focado em persistência de dados e arquitetura Android, ideal para organizar a rotina.
 
-#### [App de receitas](https://github.com/FabricioCoelho/flutter_app4_receitas).
+#### <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/66dfd8c7-7222-41c8-9a25-e0e80fc06fc6" /> [App de receitas](https://github.com/FabricioCoelho/flutter_app4_receitas).
 -Projeto prático em flutter de uma aplicação completa de receitas.
 
-#### [App Detector de Objetos](https://github.com/FabricioCoelho/objectDetector)
+#### <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/9aff8297-4d81-4665-8270-1e7ffffa93d2" /> [App Detector de Objetos](https://github.com/FabricioCoelho/objectDetector)
 -Projeto prático pŕatico sobre visão computacional (TFlite) e Android Nativo.
 
 ---
