@@ -37,7 +37,7 @@ Estudante de Engenharia de Software apaixonado por transformar ideias em soluç�
 ### 📌 Projetos em Destaque
 
 #### [App SoloFacil](https://github.com/FabricioCoelho/App_SoloFacil)
-Aplicação desenvolvida em Kotlin para simplificar a análise de solo. Um exemplo de como a tecnologia pode servir à agroecologia.
+Projeto prático em Kotlin para simplificar a análise de solo(NPK e umidade). Um exemplo de como a tecnologia pode servir à agroecologia.
 
 #### [App Lista de Tarefas](https://github.com/FabricioCoelho/AppListaDeTarefas)
 Projeto prático focado em persistência de dados e arquitetura Android, ideal para organizar a rotina.
@@ -45,6 +45,8 @@ Projeto prático focado em persistência de dados e arquitetura Android, ideal p
 #### [App de receitas]([https://github.com/FabricioCoelho/App_calculadora_IMC](https://github.com/FabricioCoelho/flutter_app4_receitas))
 Projeto prático em flutter de uma aplicação completa de receitas.
 
+#### [App Detector de Objetos]([https://github.com/FabricioCoelho/objectDetector))
+Projeto prático pŕatico sobre visão computacional (TFlite) e Android Nativo.
 ---
 
 ### 📊 Estatísticas
